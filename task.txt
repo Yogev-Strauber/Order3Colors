@@ -1,0 +1,9 @@
+in a givven array of balls of three colors please order them in groups 
+
+for example this array:
+
+['red', 'blue', 'green', 'blue', 'red', 'green', 'blue', 'red', 'green', 'blue']
+
+will become this:
+
+['red', 'red', 'red', 'green', 'green', 'green', 'blue', 'blue', 'blue', 'blue']
